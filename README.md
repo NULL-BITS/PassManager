@@ -1,9 +1,17 @@
 # PassManager
 A Password-Manager in Python
 
-run with:
-
-python3 /.idea/main.py
-
 install dependencies with:
-pip install -r requirements.txt
+pip3.10 install -r requirements.txt
+
+run with:
+python3.10 /.idea/main.py
+
+Note:
+
+I'm not responsible for your Data
+At the time this passwordmanager is very insecure...
+---> will change in future versions
+
+Have a great day.
+
